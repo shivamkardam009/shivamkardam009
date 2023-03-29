@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React-Js**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **shivamkardam009@gmail.com**
 
