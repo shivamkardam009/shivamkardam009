@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikas-parmar-2492b91ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-parmar-2492b91ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamkumar009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-parmar-2492b91ba/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vikas parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vikas parmar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/visparmar119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="visparmar119" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@visparmar119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@visparmar119" height="30" width="40" /></a>
